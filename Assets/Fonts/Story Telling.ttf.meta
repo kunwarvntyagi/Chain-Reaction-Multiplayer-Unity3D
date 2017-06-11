@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 107ac8b72dcc39d4e96da231355d01a2
+timeCreated: 1489007247
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Story Telling
+  fontNames:
+  - Story Telling
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
